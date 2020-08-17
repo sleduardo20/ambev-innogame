@@ -38,14 +38,6 @@ Aplicativo oferecido aos pdvs para facilitar o controle de estoque do estabeleci
 O código de barras, ao passar pelo caixa, alimenta um banco de dados criado pela Ambev, possibilitando trackear de perto o mercado de bebidas não alcoólicas e criar estratégias em cima desses dados.
 Estratégias essas que serão fundamentais para o melhor entendimento do mercado e crescimento cada vez maior dos não alcoólicos.
 
-## ⛓️ Dependências / Limitações <a name = "limitations"></a>
-
-- O app depende 
-- Describe each limitation in detailed but concise terms
-- Explain why each limitation exists
-- Provide the reasons why each limitation could not be overcome using the method(s) chosen to acquire.
-- Assess the impact of each limitation in relation to the overall findings and conclusions of your project, and if
-  appropriate, describe how these limitations could point to the need for further research.
 
 ## 🚀 Futuras Etapas <a name = "future_scope"></a>
 

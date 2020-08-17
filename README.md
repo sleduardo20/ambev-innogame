@@ -27,7 +27,7 @@
 
 
 
-## 🧐 Problem Statement <a name = "problem_statement"></a>
+## 🧐 Desafio <a name = "problem_statement"></a>
 
 It is useful to design and follow a specific format when writing a problem statement. While there are several options
 for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain

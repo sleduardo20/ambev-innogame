@@ -102,6 +102,8 @@ yarn
 ## ⛏️ Ferramentas <a name = "tech_stack"></a>
 
 - [React Native](https://reactnative.dev/docs/getting-started) - Desenvolvimento Mobile
+- [React Navigation](https://reactnavigation.org/) - Navegação Mobile
+- [Styled-Components](https://styled-components.com/docs/basics) - Estilizaçao
 
 
 ## ✍️ Autores <a name = "authors"></a>

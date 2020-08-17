@@ -64,8 +64,7 @@ Estratégias essas que serão fundamentais para o melhor entendimento do mercado
 
  ## 🏁 Começando  <a name = "getting_started"></a>
 
-Estas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local para desenvolvimento
-e para fins de teste.
+Estas instruções fornecerão uma cópia do projeto para desenvolvimento e para fins de teste.
 
 ### Pré Requisitos
 

@@ -1,11 +1,19 @@
-<p align="center">
+
   <a href="" rel="noopener">
- <div>
- <img src="https://ambev-innogame.tech/wp-content/themes/ambev/img/header-logo.png" 
+ 
+ <p align="center">
+ <img align="center" src="https://ambev-innogame.tech/wp-content/themes/ambev/img/header-logo.png" 
  alt="Project logo"></a>
- <h1 align="rigth">Innovation Game 2</h1>
- </div>
-</p>
+ </p>
+
+<h1 align="center">Innovation Game 2</h1>
+
+<p align="center">
+ <img aling="center" height="590" width="390" src="https://github.com/sleduardo20/ambev-innogame/blob/master/src/assets/app_demo.png?raw=true" 
+ alt="Project logo"></a>
+ 
+ </p>
+
 <h3 align="center">Ambevendas</h3>
 
 <div align="center">
@@ -15,11 +23,7 @@
 
 </div>
 
----
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
 
 
 
@@ -58,10 +62,10 @@ Estratégias essas que serão fundamentais para o melhor entendimento do mercado
 - Primeiramente o app será testado apenas para celulares, pois de acordo com as pesquisas, é o meio mais utilizado. Porém, a interface que possibilite o acesso em computadores  pode ser desenvolvida depois também.
 
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+ ## 🏁 Começando  <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development
-and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Estas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local para desenvolvimento
+e para fins de teste.
 
 ### Pré Requisitos
 
@@ -71,24 +75,28 @@ maquína, aqui estão os links para configuração de cada emulador:
 - [iPhone](https://reactnative.dev/docs/getting-started) 
 - [Android](https://developer.android.com/studio/run/emulator?hl=pt-br) 
 
-```
-Give examples
-```
 
-### Instalação
 
-A step by step series of examples that tell you how to get a development env running.
+## Instalação
 
-Say what the step will be
+
+
+Para podermos colocar o projeto em ambiente de desenvolvimento faça o clone do repositório em sua máquina:
 
 ```
-Give the example
+https://github.com/sleduardo20/ambev-innogame.git
 ```
 
-And repeat
+logo depois instale as dependências com:
 
 ```
-until finished
+npm install
+```
+
+ou
+
+```
+yarn
 ```
 
 
